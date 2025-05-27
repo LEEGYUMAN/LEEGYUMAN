@@ -12,30 +12,33 @@ My goal is to become an expert in cybersecurity and to be a trustworthy and impr
 
 ## 🛠️ Technical Skills
 
+### 🟩 Tools
 
-### 📗 Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F56A00?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0080FF?style=flat-square&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-003A70?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F56A00?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0080FF?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-003A70?style=flat-square&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FD0100?style=flat-square&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FD0100?style=flat-square&logo=shodan&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=torproject&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-223344?style=flat-square&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-EF1C27?style=flat-square&logoColor=white)
 
 ---
 
-### 🧰 Additional Tools
-![VS 코드](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![깃](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![깃헙](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![우체부](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🟥 Additional Tools
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
 ---
-
-
-![탑 랭스](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEGYUMA&layout=compact & 테마=dark)
 
 
