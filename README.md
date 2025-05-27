@@ -37,21 +37,5 @@ My goal is to become an expert in cybersecurity and to be a trustworthy and impr
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 
-<!-- Autopsy -->
-<img src="https://img.shields.io/badge/Autopsy-223344?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA..." height="25"/>
-
-<!-- Ghidra -->
-<img src="https://img.shields.io/badge/Ghidra-EF1C27?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAA..." height="25"/>
-
-<!-- Shodan -->
-<img src="https://img.shields.io/badge/Shodan-FD0100?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA..." height="25"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Ghidra_logo.png" height="25"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Shodan_logo.png" height="25"/>
-
-<img src="https://your-image-host.com/autopsy-badge.png" height="25"/>
-
-
 ---
-
 
