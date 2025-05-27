@@ -14,16 +14,16 @@ My goal is to become an expert in cybersecurity and to be a trustworthy and impr
 
 
 ### 📗 Tools
-![리눅스](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![와이어샤크](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![버프 스위트](https://img.shields.io/badge/Burp%20Suite-F56A00?style=for-the-badge&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-0080FF?style=for-the-badge&logoColor=white)  
-![메타스플롯](https://img.shields.io/badge/Metasploit-003A70?style=for-the-badge&logoColor=white)  
-![칼리 리눅스](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![버추얼박스](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
-![바이러스토탈](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)  
-![쇼단](https://img.shields.io/badge/Shodan-FD0100?style=for-the-badge&logoColor=white)  
-![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F56A00?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0080FF?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-003A70?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FD0100?style=flat-square&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logoColor=white)
 
 ---
 
@@ -35,9 +35,6 @@ My goal is to become an expert in cybersecurity and to be a trustworthy and impr
 
 ---
 
-## 📈 GitHub 통계
-
-![LEEGYUMA의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=LEEGYUMA&show_icons=true&theme=dark&hide_title=true)
 
 ![탑 랭스](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEGYUMA&layout=compact & 테마=dark)
 
